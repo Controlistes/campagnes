@@ -6,7 +6,7 @@ Les parties commencent toujours au même endroit, la frontière sauvage d'un Emp
 
 En tant qu'aventurier de la Couronne, vous faites le sale boulot des pionniers. Votre objectif est d'explorer la région, buter les sales bêtes, lever les maledictions et établir le contact avec les locaux. En échange de quoi, vous avez le droit de vous servir dans les trésors. Mais ne vous y trompez pas, vous êtes les perdants dans cette histoire.
 
-Dans cette campagne, **les choses se passent un peu différemment**. Les joueurs sont chargés de l'organisation des parties et il se passe beaucoup de choses en dehors des parties à proprement parlé, pour gagner du temps.
+Dans cette campagne, **les choses se passent un peu différemment**. Les joueurs sont chargés de l'organisation des parties et il se passe un maximum de choses en dehors, pour gagner du temps.
 
 ## Nouveaux joueurs
 
