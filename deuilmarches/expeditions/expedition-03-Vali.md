@@ -1,43 +1,20 @@
-# Expédition 3 : Des loups, des orcs et du WRESTLING
-
-Joueurs :
-
--Anselm (Nicodemus)
-
--Blade0886 (Karl)
-
--Dark (Abel)
-
--Leana (Liz)
-
--Tim (Garath)
-
--Vali (Vladimir)
+Expedition 3
 
 Rumeurs:
 
+l'eclaireur du dernier convois ont spotté un campement  pres de la foret, potentielle menace; suivre la route pdt 2 ou 3 jours de marche, juste avant de quitter la foret aller a droite
 
-
-l'eclaireur du dernier convois ont spotté un campement pres de la foret, potentielle menace; suivre la route pdt 2 ou 3 jours de marche, juste avant de quitter la foret aller a droite
-
-en remontant le fleuve vers le nord il y a plusieur campement, il faudrait les contacter et vérifier leur alégence
+en remontant le fleuve vers le nord il y  a plusieur campement, il faudrait les contacter et vérifier leur alégence
 
 Nord ouest en dehors de la foret il y a des formes bizarres avec des phénomène zarb
 
 vers le sud en suivant le fleuve, on trouve une passe dans une chaine de montagne dure a passer, en bossant on peut tranformer en chemin officiel
 
 
-
-
-
 Objectifs:
-
 on va voir les campement du nord pour les amadouer avec une épée et une promesse d'autres
 
-
-
 Jour 1:
-
 On se dirige vers le nord en suivant le fleuve
 
 on progresse lentement a cause de la végétation
@@ -54,10 +31,7 @@ on dort, nicodemus prend le 1er tour de garde, garath prend le second
 
 Pas d'incidents
 
-
-
 Jour 2:
-
 Possible pluie bientot
 
 On progresse trankil
@@ -73,9 +47,6 @@ on décide de se reposer et d'aller voir la fumée demain
 garath et nicodemus montent la garde, et des bruits se font entendre
 
 *page tachée de sang*
-
-
-
 
 
 -Garath tué par un loup, journal repris par Vladimir
